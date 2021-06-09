@@ -1,0 +1,9 @@
+# Домашнее задание PYDA-21-hw-___
+[Cсылка](https://github.com/kagi-kar/PYDA-21_home_works/blob/master/PYDA-21-hw-2) на файл с кодом в формате Jupyter Notebook
+
+## Задание 1
+1. ...
+1. ...
+1. ...
+
+* Пример 1
